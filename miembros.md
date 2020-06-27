@@ -2,6 +2,7 @@
 
 * Black panther
 * Black Widow
+* Nuck Fury
 * Capitán America
 * Capitán Marvel
 * Falcon
